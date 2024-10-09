@@ -2,7 +2,6 @@ import streamlit as st
 
 st.title("New Multi Page App")
 
-
 # --- Page Setup 
 
 about_page = st.Page(
